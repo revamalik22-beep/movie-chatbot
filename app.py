@@ -2,8 +2,11 @@ import streamlit as st
 import json
 import random
 
-
+# --------------------------------------------
+# PAGE CONFIG
+# --------------------------------------------
 st.set_page_config(page_title="MiniFlix Chatbot", page_icon="🎬", layout="wide")
+
 
 st.markdown("""
 <style>
@@ -13,6 +16,20 @@ body {
     color: white;
 }
 
+/* Text input styling */
+input[type="text"] {
+    background-color: #222 !important;
+    color: white !important;
+    border: 1px solid #E50914 !important;
+    border-radius: 6px !important;
+    padding: 10px !important;
+}
+
+input::placeholder {
+    color: #888 !important;
+}
+
+/* Movie card styling */
 .movie-card {
     background: rgba(255, 255, 255, 0.06);
     padding: 20px;
@@ -22,29 +39,33 @@ body {
     border: 1px solid rgba(255,255,255,0.1);
 }
 
-input {
-    background-color: white !important;
-}
-
 </style>
 """, unsafe_allow_html=True)
 
-
+# --------------------------------------------
+# LOAD MOVIE DATA
+# --------------------------------------------
 with open("movies.json", "r", encoding="utf-8") as f:
     movies = json.load(f)
 
-
+# --------------------------------------------
+# HEADER
+# --------------------------------------------
 st.markdown("""
 <div style="text-align:center; padding:20px;">
     <h1 style="color:#E50914; font-size:50px; margin-bottom:5px;">🎬 MiniFlix Chatbot</h1>
-    <p style="font-size:20px; color:#ccc;">Your Bollywood recommendation assistant ✨</p>
+    <p style="font-size:20px; color:#ccc;">Your Bollywood movie recommendation assistant ✨</p>
 </div>
 """, unsafe_allow_html=True)
 
+# --------------------------------------------
+# USER INPUT
+# --------------------------------------------
+user_msg = st.text_input("💬 What do you feel like watching? (romantic, horror, comedy, thriller…)", "")
 
-user_msg = st.text_input("💬 What do you feel like watching? (romantic, horror, comedy, etc.)", "")
-
-
+# --------------------------------------------
+# SEARCH HELPERS
+# --------------------------------------------
 def get_movies_by_genre(genre):
     return [m for m in movies if genre.lower() in [g.lower() for g in m["genre"]]]
 
@@ -57,6 +78,7 @@ def get_movies_by_mood(mood):
 if st.button("🎁 Surprise Me"):
     movie = random.choice(movies)
     st.subheader("✨ Your Surprise Pick!")
+
     col1, col2 = st.columns([1, 2])
     with col1:
         st.image(movie["poster"], use_column_width=True)
@@ -74,12 +96,13 @@ if st.button("🎁 Surprise Me"):
         )
 
 # --------------------------------------------
-# SMART CHAT LOGIC
+# SMART CHATBOT LOGIC
 # --------------------------------------------
 if user_msg:
     msg = user_msg.lower()
     recs = []
 
+    # GENRE KEYWORDS
     genre_map = {
         "romance": ["romance", "love", "romantic"],
         "comedy": ["comedy", "funny", "laugh"],
@@ -99,6 +122,7 @@ if user_msg:
         "mystery": ["mystery"]
     }
 
+    # MOOD KEYWORDS
     mood_map = {
         "feel-good": ["feel good", "happy", "uplifting"],
         "emotional": ["emotional", "cry", "tears"],
@@ -119,17 +143,18 @@ if user_msg:
             matched_mood = mood
             break
 
+    # DISPLAY RESULTS
     if matched_genre:
         recs = get_movies_by_genre(matched_genre)
         st.subheader(f"🎬 {matched_genre.title()} Movies For You")
 
     elif matched_mood:
         recs = get_movies_by_mood(matched_mood)
-        st.subheader(f"💫 {matched_mood.title()} Picks")
+        st.subheader(f"💫 {matched_mood.title()} Vibe Picks")
 
     else:
-        st.subheader("🤔 Try searching for:")
-        st.write("romance, comedy, horror, thriller, emotional, feel-good, youth, patriotic, crime")
+        st.subheader("🤔 I'm not sure what you meant… try:")
+        st.write("romance, comedy, horror, thriller, emotional, youth, travel, patriotic, crime")
         recs = []
 
     # --------------------------------------------
