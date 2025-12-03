@@ -1,0 +1,283 @@
+[
+  {
+    "title": "3 Idiots",
+    "genre": ["comedy", "drama"],
+    "mood": ["feel-good", "light"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjYzNDY4NDYtYTRlYS00NDYxLTlmMWQtZjBmMjU0NmE0OTNjXkEyXkFqcGc@._V1_.jpg",
+    "description": "Three friends challenge the traditional education system in a heartfelt comedy."
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "genre": ["drama", "adventure"],
+    "mood": ["feel-good", "travel"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTE1MzE4MF5BMl5BanBnXkFtZTcwNzU1NDg0NQ@@._V1_.jpg",
+    "description": "Three friends rediscover themselves on a life-changing road trip."
+  },
+  {
+    "title": "Yeh Jawaani Hai Deewani",
+    "genre": ["romance", "drama"],
+    "mood": ["romantic", "youthful"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MjE5ODU2NF5BMl5BanBnXkFtZTgwNjMxNzMxMTE@._V1_.jpg",
+    "description": "A heart-warming story of friendship, love, and dreams."
+  },
+  {
+    "title": "Tamasha",
+    "genre": ["romance", "drama"],
+    "mood": ["emotional", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTUxOTEyMl5BMl5BanBnXkFtZTgwNzcyMzcxNzE@._V1_.jpg",
+    "description": "Two strangers help each other rediscover their true selves."
+  },
+  {
+    "title": "Kabir Singh",
+    "genre": ["romance", "drama"],
+    "mood": ["intense", "dark"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0Yzk3MzQtZDI3Mi00OTU5LWFlZDMtNjQzNDcxYzc5NWE0XkEyXkFqcGc@._V1_.jpg",
+    "description": "A brilliant surgeon spirals out of control after heartbreak."
+  },
+  {
+    "title": "Barfi!",
+    "genre": ["romance", "comedy"],
+    "mood": ["feel-good", "emotional"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MjM3NTI1MF5BMl5BanBnXkFtZTcwNjEyMjUzOA@@._V1_.jpg",
+    "description": "A charming love story between three imperfect people."
+  },
+  {
+    "title": "Jab We Met",
+    "genre": ["romance", "comedy"],
+    "mood": ["feel-good", "romantic"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODE1MDcxNF5BMl5BanBnXkFtZTcwMjE1NTE3MQ@@._V1_.jpg",
+    "description": "Two strangers embark on an unforgettable journey."
+  },
+  {
+    "title": "Dil Chahta Hai",
+    "genre": ["drama", "comedy"],
+    "mood": ["feel-good", "friendship"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MzA3ODg2NV5BMl5BanBnXkFtZTYwNzg1MDY3._V1_.jpg",
+    "description": "A story of friendship and growing up."
+  },
+  {
+    "title": "Kal Ho Naa Ho",
+    "genre": ["romance", "drama"],
+    "mood": ["emotional", "romantic"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMzMwY2ItZTNkMi00OWYxLWE2ODMtNjNlYjQ5ODJhNDVjXkEyXkFqcGc@._V1_.jpg",
+    "description": "A love triangle bound by destiny and heartbreak."
+  },
+  {
+    "title": "Dangal",
+    "genre": ["sports", "drama"],
+    "mood": ["inspirational", "serious"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NDQ5NzU2NV5BMl5BanBnXkFtZTgwODUyODE5NzE@._V1_.jpg",
+    "description": "A father trains his daughters to become world-class wrestlers."
+  },
+  {
+    "title": "Bajirao Mastani",
+    "genre": ["history", "romance"],
+    "mood": ["intense", "grand"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1MjAxMzA2MjReQTJeQWpwZ15BbWU4MDM1MDQwODQx._V1_.jpg",
+    "description": "A passionate tale of love, war, and honor."
+  },
+  {
+    "title": "Padmaavat",
+    "genre": ["history", "drama"],
+    "mood": ["intense", "dark"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MjA2NDk0NF5BMl5BanBnXkFtZTgwODA4MzcxNDM@._V1_.jpg",
+    "description": "A royal tale of obsession and valor."
+  },
+  {
+    "title": "PK",
+    "genre": ["comedy", "drama"],
+    "mood": ["light", "thoughtful"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNjE5MzgxOF5BMl5BanBnXkFtZTgwNDA3MzgxMzE@._V1_.jpg",
+    "description": "An alien questions human beliefs in a hilarious way."
+  },
+  {
+    "title": "Brahmastra",
+    "genre": ["fantasy", "action"],
+    "mood": ["adventurous", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjllNzhkNWMtNjdiYi00YjNkLTg2ZGItMDM2MTI4ZTdkMTYyXkEyXkFqcGc@._V1_.jpg",
+    "description": "A modern mythological adventure filled with astras."
+  },
+  {
+    "title": "War",
+    "genre": ["action", "spy"],
+    "mood": ["intense", "thrilling"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAwMGNiMGQtYzU2ZC00MDU0LWJmYTYtMzhhOTViODE5NWEyXkEyXkFqcGc@._V1_.jpg",
+    "description": "An elite soldier chases his mentor turned rogue."
+  },
+  {
+    "title": "Andhadhun",
+    "genre": ["thriller", "crime"],
+    "mood": ["dark", "twisty"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmFkYWU3ZjEtNzQyMy00NDZjLTlkNTctNDg3NWQxYWQ5NzRmXkEyXkFqcGc@._V1_.jpg",
+    "description": "A blind pianist becomes entangled in a murder mystery."
+  },
+  {
+    "title": "Drishyam",
+    "genre": ["crime", "thriller"],
+    "mood": ["dark", "intelligent"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmY5YThjZTktOGFkNy00YzNhLTk5NWMtYzEyNTI5NjVlZGI1XkEyXkFqcGc@._V1_.jpg",
+    "description": "A man uses his wits to protect his family from the law."
+  },
+  {
+    "title": "Queen",
+    "genre": ["comedy", "drama"],
+    "mood": ["empowering", "light"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NTQ2MjUyOF5BMl5BanBnXkFtZTgwNjgxMzQzMTE@._V1_.jpg",
+    "description": "A woman goes on a solo honeymoon and finds herself."
+  },
+  {
+    "title": "Rockstar",
+    "genre": ["musical", "romance"],
+    "mood": ["intense", "emotional"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODg3NDE5OF5BMl5BanBnXkFtZTcwNzU2Njk3Ng@@._V1_.jpg",
+    "description": "A musician's rise is tied to heartbreak and passion."
+  },
+  {
+    "title": "Gully Boy",
+    "genre": ["drama", "music"],
+    "mood": ["inspirational", "youthful"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NzUzMDc4NV5BMl5BanBnXkFtZTgwOTQ2MzI0NzM@._V1_.jpg",
+    "description": "A street rapper fights his way to recognition."
+  },
+
+  {
+    "title": "Stree",
+    "genre": ["horror", "comedy"],
+    "mood": ["funny", "quirky"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ5NmZmZmItMmZiZS00NjI0LTgxOTItYWYzMGJlN2IwOTU5XkEyXkFqcGc@._V1_.jpg",
+    "description": "A hilarious ghost story in a small town."
+  },
+  {
+    "title": "Bhool Bhulaiyaa",
+    "genre": ["horror", "comedy"],
+    "mood": ["funny", "mystery"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA4YmU2NjMtNjM1Mi00MjMwLTg3NzctOTNkOWFiNzc5ZjEyXkEyXkFqcGc@._V1_.jpg",
+    "description": "A psychiatrist investigates a haunted palace."
+  },
+  {
+    "title": "Raazi",
+    "genre": ["spy", "thriller"],
+    "mood": ["intense", "patriotic"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTkyZTU0ZDctMWJmZS00MDYyLTlkMTQtOGZiYzRmZTRkYWFhXkEyXkFqcGc@._V1_.jpg",
+    "description": "A young woman becomes an undercover spy across the border."
+  },
+  {
+    "title": "Dear Zindagi",
+    "genre": ["drama"],
+    "mood": ["emotional", "light"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ODQxMjMzNl5BMl5BanBnXkFtZTgwNzAxNjc5OTE@._V1_.jpg",
+    "description": "A girl navigates relationships with the help of an unconventional therapist."
+  },
+  {
+    "title": "Pink",
+    "genre": ["thriller", "courtroom"],
+    "mood": ["serious", "strong"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUyNzQ3NDQwMl5BMl5BanBnXkFtZTgwNTYxOTczNzE@._V1_.jpg",
+    "description": "Three women fight for justice in a powerful courtroom drama."
+  },
+  {
+    "title": "Haider",
+    "genre": ["drama", "crime"],
+    "mood": ["dark", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2ODY4Nzk5OF5BMl5BanBnXkFtZTgwMjAxNzY2MjE@._V1_.jpg",
+    "description": "A modern Shakespearean tragedy set in Kashmir."
+  },
+  {
+    "title": "Highway",
+    "genre": ["drama"],
+    "mood": ["emotional", "liberating"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODU0NTc3Nl5BMl5BanBnXkFtZTgwNTE3NTgzMTE@._V1_.jpg",
+    "description": "A kidnapped woman finds freedom on the road."
+  },
+  {
+    "title": "URI: The Surgical Strike",
+    "genre": ["action", "war"],
+    "mood": ["patriotic", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU2MGNiZDUtYTVlMS00Y2Q3LWFlNzgtOTVmZDMxY2E3ZWMwXkEyXkFqcGc@._V1_.jpg",
+    "description": "A dramatized account of a covert military operation."
+  },
+  {
+    "title": "Bajrangi Bhaijaan",
+    "genre": ["drama", "adventure"],
+    "mood": ["emotional", "feel-good"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NTQzODczN15BMl5BanBnXkFtZTgwOTQxOTk4NjE@._V1_.jpg",
+    "description": "A man helps a lost mute girl reunite with her family."
+  },
+  {
+    "title": "Chhichhore",
+    "genre": ["drama"],
+    "mood": ["feel-good", "friendship"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI4NWY4YWItMmUyYS00NWFkLWE5ODEtZWY2OTM0NTBlNmExXkEyXkFqcGc@._V1_.jpg",
+    "description": "A heartfelt story about friendship and acceptance."
+  },
+  {
+    "title": "Tanhaji",
+    "genre": ["history", "action"],
+    "mood": ["patriotic", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdlMWJkNjctYzA0Zi00ZjQ5LTk5MTQtMTczYzE2MWUxZjkzXkEyXkFqcGc@._V1_.jpg",
+    "description": "A warrior fights to reclaim a fort in a historic battle."
+  },
+  {
+    "title": "Airlift",
+    "genre": ["drama", "history"],
+    "mood": ["serious", "inspirational"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZmYjJiZjQtZjU2Ni00YjVlLWJlZjUtNmEwMjcxMzEyOWZlXkEyXkFqcGc@._V1_.jpg",
+    "description": "A businessman helps evacuate Indians during a crisis."
+  },
+  {
+    "title": "Neerja",
+    "genre": ["biography", "drama"],
+    "mood": ["emotional", "strong"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4Njc4NDYwNV5BMl5BanBnXkFtZTgwNzk5MjY0NzE@._V1_.jpg",
+    "description": "The true story of a brave flight attendant."
+  },
+  {
+    "title": "Sanju",
+    "genre": ["biography", "drama"],
+    "mood": ["emotional", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzdlNmJmZTgtOWM5YS00OTdmLWJiZWItMTU0MmYyZThlMjllXkEyXkFqcGc@._V1_.jpg",
+    "description": "A biographical drama about actor Sanjay Dutt."
+  },
+  {
+    "title": "Lagaan",
+    "genre": ["sports", "drama"],
+    "mood": ["inspirational", "epic"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NzgzMzEyMF5BMl5BanBnXkFtZTYwNzM0MzU5._V1_.jpg",
+    "description": "Villagers challenge British officers in a game of cricket."
+  },
+  {
+    "title": "Swades",
+    "genre": ["drama"],
+    "mood": ["inspirational", "serious"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNjI2NDM3OV5BMl5BanBnXkFtZTcwMjg5MDcyMQ@@._V1_.jpg",
+    "description": "A NASA scientist returns to India to reconnect with his roots."
+  },
+  {
+    "title": "Taare Zameen Par",
+    "genre": ["family", "drama"],
+    "mood": ["emotional", "heartwarming"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NDczNDg3NV5BMl5BanBnXkFtZTcwMzExMTUzMw@@._V1_.jpg",
+    "description": "A teacher helps a dyslexic child discover his true talent."
+  },
+  {
+    "title": "Om Shanti Om",
+    "genre": ["romance", "drama"],
+    "mood": ["fun", "musical"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDkzNzQ2Nl5BMl5BanBnXkFtZTcwODEwODc2MQ@@._V1_.jpg",
+    "description": "A reincarnation story combining love, revenge, and Bollywood glamour."
+  },
+  {
+    "title": "Jawan",
+    "genre": ["action", "thriller"],
+    "mood": ["intense", "patriotic"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDA3YWExMmMtM2JjMS00ZGI3LTlhOTYtMGI5M2QwYWQ3NWVhXkEyXkFqcGc@._V1_.jpg",
+    "description": "A vigilante fights corruption with a personal mission."
+  },
+  {
+    "title": "Pathaan",
+    "genre": ["action", "spy"],
+    "mood": ["thrilling", "intense"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA2Y2MyNTItOTNiYi00ZmE4LWJlNjUtYmZlZDQxZTdiZmE0XkEyXkFqcGc@._V1_.jpg",
+    "description": "An Indian spy comes out of exile for a high-stakes mission."
+  }
+]
