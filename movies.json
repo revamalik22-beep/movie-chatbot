@@ -3,267 +3,266 @@
     "title": "Dilwale Dulhania Le Jayenge",
     "genre": ["romance", "drama"],
     "mood": ["classic", "feel-good", "romantic"],
-    "poster": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dilwale_Dulhania_Le_Jayenge_poster.jpg",
     "description": "A classic love story where Raj and Simran fight for their happily-ever-after."
   },
   {
     "title": "Kuch Kuch Hota Hai",
     "genre": ["romance", "drama"],
     "mood": ["classic", "feel-good", "romantic"],
-    "poster": "https://image.tmdb.org/t/p/w500/zDZowwb9GZGEu3DK6P18bY0fPmv.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Kuch_Kuch_Hota_Hai_poster.jpg",
     "description": "A heartfelt story of friendship, love, and second chances."
   },
   {
     "title": "Kabhi Khushi Kabhie Gham",
     "genre": ["family", "drama"],
     "mood": ["classic", "emotional", "grand"],
-    "poster": "https://image.tmdb.org/t/p/w500/tt8X7MaxPz93SDSWk24lZD2wwbF.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9e/Kabhi_Khushi_Kabhie_Gham_poster.jpg",
     "description": "A grand family drama about love, separation, and reunion."
   },
   {
     "title": "Kal Ho Naa Ho",
     "genre": ["romance", "drama"],
     "mood": ["emotional", "romantic"],
-    "poster": "https://image.tmdb.org/t/p/w500/tqf4FOv2JxZV4zKg4X4GZIW9gkY.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Kal_Ho_Naa_Ho_poster.jpg",
     "description": "A love triangle tied together by fate and heartbreak."
   },
   {
     "title": "Dil To Pagal Hai",
     "genre": ["romance", "musical"],
     "mood": ["classic", "romantic"],
-    "poster": "https://image.tmdb.org/t/p/w500/6EKgIcXt6lZmStL5OtW33I0JQ6O.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/Dil_To_Pagal_Hai.jpg",
     "description": "A musical romance exploring the belief that love finds its way."
   },
   {
-    "title": "Hum Aapke Hain Koun..!",
+    "title": "Hum Aapke Hain Koun..! ",
     "genre": ["family", "romance"],
     "mood": ["classic", "feel-good"],
-    "poster": "https://image.tmdb.org/t/p/w500/uXQ8N1T6VJWGAaHo9dZYkTfGZNV.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4f/Hum_Aapke_Hain_Koun%21_poster.jpg",
     "description": "A joyful celebration of love, family, and Indian traditions."
   },
   {
     "title": "Lagaan",
     "genre": ["sports", "drama"],
     "mood": ["inspirational", "classic"],
-    "poster": "https://image.tmdb.org/t/p/w500/iWqhmN3p0ATBljsz2hwXl9oE1Wc.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Lagaan.jpg",
     "description": "Villagers challenge the British to a cricket match to change their fate."
   },
   {
     "title": "Swades",
     "genre": ["drama"],
     "mood": ["inspirational", "serious"],
-    "poster": "https://image.tmdb.org/t/p/w500/4RUqHcQkMrDXe6Wu0HNCecogI41.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/Swades_poster.jpg",
     "description": "A NASA engineer returns to India and rediscovers his roots."
   },
   {
     "title": "Jab We Met",
     "genre": ["romance", "comedy"],
     "mood": ["feel-good", "romantic"],
-    "poster": "https://image.tmdb.org/t/p/w500/vlA1NVuMcZV8EJLmWaDomYgqbxn.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d5/Jab_We_Met_Poster.jpg",
     "description": "A bubbly girl and a heartbroken boy change each other's lives forever."
   },
   {
     "title": "Barfi!",
     "genre": ["romance", "comedy"],
     "mood": ["heartwarming", "emotional"],
-    "poster": "https://image.tmdb.org/t/p/w500/wANX4Z45gL5FAsEdbZ12mZYHg2o.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/84/Barfi%21_poster.jpg",
     "description": "A sweet, silent love story filled with innocence and charm."
   },
   {
     "title": "Rockstar",
     "genre": ["romance", "musical"],
     "mood": ["intense", "emotional"],
-    "poster": "https://image.tmdb.org/t/p/w500/2FvFWdLWRm4fs6TFESVxqkfNNPp.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6d/Rockstar_%282011_film%29_poster.jpg",
     "description": "A musician's journey intertwined with heartbreak and passion."
   },
   {
     "title": "Tamasha",
     "genre": ["romance", "drama"],
     "mood": ["emotional", "deep"],
-    "poster": "https://image.tmdb.org/t/p/w500/qeMmQDoj7Cokl5YKpUniZbrGbJx.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0a/Tamasha_poster.jpg",
     "description": "Two strangers help each other rediscover their true selves."
   },
   {
     "title": "Yeh Jawaani Hai Deewani",
     "genre": ["romance", "drama"],
     "mood": ["youthful", "romantic", "feel-good"],
-    "poster": "https://image.tmdb.org/t/p/w500/xjGZQGZVVmcHgMHqmpYyqn1nVbR.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/15/Yeh_jawaani_hai_deewani.jpg",
     "description": "A coming-of-age story about love, friendship, and dreams."
   },
   {
     "title": "Zindagi Na Milegi Dobara",
     "genre": ["drama", "adventure"],
     "mood": ["feel-good", "travel"],
-    "poster": "https://image.tmdb.org/t/p/w500/90ezpKpx3H1yS5NsiOfcl5x4Pv2.jpg",
-    "description": "Three friends discover life and themselves on an unforgettable road trip."
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f6/Zindaginamilegidobara.jpg",
+    "description": "Three friends discover life and themselves on a life-changing road trip."
   },
   {
     "title": "Dear Zindagi",
     "genre": ["drama"],
     "mood": ["emotional", "light"],
-    "poster": "https://image.tmdb.org/t/p/w500/iiEqAEI4UfUxJIqG0pxjJIdi2L9.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/Dear_Zindagi_poster.jpg",
     "description": "A young woman learns to navigate life with the help of an unconventional therapist."
   },
   {
     "title": "Queen",
     "genre": ["comedy", "drama"],
     "mood": ["empowering", "feel-good"],
-    "poster": "https://image.tmdb.org/t/p/w500/e0O6S2IYtYAYu8KKrkaI0s5momk.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/QueenMoviePoster7thMarch.jpg",
     "description": "A woman goes on a solo honeymoon and discovers herself."
   },
   {
     "title": "Gully Boy",
     "genre": ["drama", "music"],
     "mood": ["inspirational", "youthful"],
-    "poster": "https://image.tmdb.org/t/p/w500/bzHqBO2DGcJFaErtuDIA5uHcRUW.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Gully_Boy_poster.jpg",
     "description": "A Mumbai street rapper rises against all odds."
   },
   {
     "title": "Dangal",
     "genre": ["sports", "drama"],
     "mood": ["inspirational", "serious"],
-    "poster": "https://image.tmdb.org/t/p/w500/sq367RS9cSy1yPqZLj7DCcdsH1W.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg",
     "description": "A father trains his daughters to become world-class wrestlers."
   },
   {
     "title": "PK",
     "genre": ["comedy", "drama"],
     "mood": ["light", "thoughtful"],
-    "poster": "https://image.tmdb.org/t/p/w500/9bX0oCjG5eQqrFu9jKMOdmg82Af.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/PK_poster.jpg",
     "description": "An alien questions human customs and beliefs on Earth."
   },
   {
     "title": "Andhadhun",
     "genre": ["thriller", "crime"],
     "mood": ["dark", "twisty"],
-    "poster": "https://image.tmdb.org/t/p/w500/gho3RBVcU6zszgdWzxubFDlzB9L.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Andhadhun_poster.jpg",
     "description": "A blind pianist becomes entangled in a series of mysterious crimes."
   },
   {
     "title": "Drishyam",
     "genre": ["thriller", "crime"],
     "mood": ["dark", "intelligent"],
-    "poster": "https://image.tmdb.org/t/p/w500/tYlbEoL7gYsJhBKt3vnDnNauUX0.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/Drishyam_2015_film_poster.jpg",
     "description": "A man uses his wits to protect his family from the law."
   },
   {
     "title": "Kahaani",
     "genre": ["thriller"],
     "mood": ["intense", "mystery"],
-    "poster": "https://image.tmdb.org/t/p/w500/2sB4nxsVXni4eWh05rq6ArtyTcD.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/80/Kahaani_poster.jpg",
     "description": "A pregnant woman searches for her missing husband in Kolkata."
   },
   {
     "title": "Raazi",
     "genre": ["spy", "thriller"],
     "mood": ["intense", "patriotic"],
-    "poster": "https://image.tmdb.org/t/p/w500/wlGHBX9pYby3QbbmDGPILjk38E7.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Raazi_Poster.jpg",
     "description": "A young woman becomes an undercover spy across the border."
   },
   {
     "title": "Haider",
     "genre": ["drama", "crime"],
     "mood": ["dark", "intense"],
-    "poster": "https://image.tmdb.org/t/p/w500/r9YjRzCQXDpUe1koRaSPoaqe7ZU.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Haider_Poster.jpg",
     "description": "A Shakespearean tragedy set against conflict in Kashmir."
   },
   {
     "title": "Pink",
     "genre": ["thriller", "courtroom"],
     "mood": ["serious", "strong"],
-    "poster": "https://image.tmdb.org/t/p/w500/kaZEVX9nneAFfh8NZH9JxC1YeeX.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f6/Pinkmovieposter.jpg",
     "description": "Three women fight for justice in a powerful courtroom battle."
   },
   {
     "title": "Uri: The Surgical Strike",
     "genre": ["action", "war"],
     "mood": ["patriotic", "intense"],
-    "poster": "https://image.tmdb.org/t/p/w500/2mtKY1HnXiA2onn6l1qYbgGlHRc.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/URI_The_Surgical_Strike_film_poster.jpg",
     "description": "A dramatized account of a covert military operation."
   },
   {
     "title": "Chhichhore",
     "genre": ["drama", "comedy"],
     "mood": ["feel-good", "friendship"],
-    "poster": "https://image.tmdb.org/t/p/w500/1nUJtHTq6Q2X6htCwMkHSrwlGHw.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/Chhichhore_Poster.jpg",
     "description": "A nostalgic look at friendships and overcoming failure."
   },
   {
     "title": "Bajrangi Bhaijaan",
     "genre": ["drama", "adventure"],
     "mood": ["emotional", "feel-good"],
-    "poster": "https://image.tmdb.org/t/p/w500/5YjH5p7q0E8xmPKUlAdU8VaGvxy.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5d/Bajrangi_Bhaijaan_Poster.jpg",
     "description": "A man helps a lost mute girl reunite with her family."
   },
   {
     "title": "Tanhaji",
     "genre": ["action", "history"],
     "mood": ["patriotic", "intense"],
-    "poster": "https://image.tmdb.org/t/p/w500/oXYiFsIbEEoQVPQuV3DjHiY6jSR.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1d/Tanaji_film_poster.jpg",
     "description": "A Maratha warrior leads a crucial battle in Indian history."
   },
   {
     "title": "Airlift",
     "genre": ["drama", "history"],
     "mood": ["patriotic", "serious"],
-    "poster": "https://image.tmdb.org/t/p/w500/dSxFz8Fu7nOABkQIx8hyU2IJz53.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Airlift_poster.jpg",
     "description": "A businessman helps evacuate Indians during a war crisis."
   },
   {
     "title": "Neerja",
     "genre": ["biography", "drama"],
     "mood": ["emotional", "strong"],
-    "poster": "https://image.tmdb.org/t/p/w500/x7YCi5gzrFY4xXHzkwmoqLgVjEd.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Neerja_poster.jpg",
     "description": "The heroic true story of flight attendant Neerja Bhanot."
   },
   {
     "title": "Sanju",
     "genre": ["biography", "drama"],
     "mood": ["intense", "emotional"],
-    "poster": "https://image.tmdb.org/t/p/w500/2odG9gdzyHrp0YTmW0imHy7DQFc.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/69/Sanju_2018_poster.jpg",
     "description": "The turbulent yet inspiring life of actor Sanjay Dutt."
   },
   {
     "title": "Bhool Bhulaiyaa",
     "genre": ["horror", "comedy"],
     "mood": ["funny", "mystery"],
-    "poster": "https://image.tmdb.org/t/p/w500/lENkQWGWpZJYG1ChcxrFA8bUkOq.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Bhool_Bhulaiyaa_poster.jpg",
     "description": "A psychiatrist uncovers secrets behind a supposedly haunted mansion."
   },
   {
     "title": "Stree",
     "genre": ["horror", "comedy"],
     "mood": ["funny", "quirky"],
-    "poster": "https://image.tmdb.org/t/p/w500/up9cELyhl725LLANonFQWzVUg88.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Stree_poster.jpg",
     "description": "A mysterious spirit haunts men in a small town."
   },
   {
     "title": "Pathaan",
     "genre": ["action", "spy"],
     "mood": ["thrilling", "intense"],
-    "poster": "https://image.tmdb.org/t/p/w500/cb74xy6y7ciJfM0J8f4pwsmBCoF.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Pathaan_film_poster.jpg",
     "description": "An Indian spy returns from exile to stop a deadly threat."
   },
   {
     "title": "Jawan",
     "genre": ["action", "thriller"],
     "mood": ["intense", "patriotic"],
-    "poster": "https://image.tmdb.org/t/p/w500/ktej9YU9dy8VN1F9XNEcm0y7a7J.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3f/Jawan_film_poster.jpg",
     "description": "A vigilante fights corruption with deep personal stakes."
   },
   {
     "title": "Don",
     "genre": ["action", "crime"],
     "mood": ["stylish", "intense"],
-    "poster": "https://image.tmdb.org/t/p/w500/u6Ed0YW4VLEqhZYqlRGsAeGHNkc.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/58/Don_2006_Hindi_poster.jpg",
     "description": "A criminal mastermind becomes the target of a complex police mission."
   },
   {
     "title": "Om Shanti Om",
     "genre": ["romance", "drama"],
     "mood": ["fun", "musical"],
-    "poster": "https://image.tmdb.org/t/p/w500/k3EO3VKIN90rjUpX3cv3bTHA4cF.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/Om_Shanti_Om.jpg",
     "description": "A reincarnation saga filled with glamour, revenge, and Bollywood magic."
   }
 ]
-
